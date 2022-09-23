@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("adx").adx_()
+    __import__("Adx").menu()
 except Exception as e:
     exit(str(e))
