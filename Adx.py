@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("ax").menu()
+    __import__("ax").sex()
 except Exception as e:
     exit(str(e))
