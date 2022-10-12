@@ -1,5 +1,1 @@
-import os, sys
-try:
-    __import__("axx").menu()
-except Exception as e:
-    exit(str(e))
+print('\n\x1b[1;92m [+] Coming Soon Good night Bro ')
