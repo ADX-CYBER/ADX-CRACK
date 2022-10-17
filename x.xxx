@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("uidd").menu()
+    __import__("ran").menu()
 except Exception as e:
     exit(str(e))
