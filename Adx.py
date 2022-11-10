@@ -2,6 +2,6 @@ import os, sys
 try:os.system('termux-setup-storage')
 except:pass
 try:
-    __import__("adx101").menu()
+    __import__("dx").menu()
 except Exception as e:
     exit(str(e))
