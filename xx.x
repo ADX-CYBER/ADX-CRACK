@@ -1,5 +1,2 @@
-import os, sys
-try:
-    __import__("dump").adx()
-except Exception as e:
-    exit(str(e))
+print('')
+print('\033[1;92m [*] Coming Soon Bro')
